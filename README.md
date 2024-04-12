@@ -1,7 +1,4 @@
 ### Machine Learning Models Repository
-
-Table of Contents
-
 ------------
 #### Overview 
 This repository contains the machine learning projects that i have completed at Imperial College London during my Senior year. It includes selected corusework from the Masters of Computing.
