@@ -12,8 +12,10 @@ The repository contains 4 key machine learning models
 3. I modified the LR, Schedulers, BatchSizee and Epoch to train the model.
 Grade: 92/100
 
-The results of the data can be found:
+The results of the data can be found: 
+''
 To run the DCGAN run the python document here:
+
 
 ##### Variational Autoencoders (VAEs)
 1. Created a Variational Autoencoder to generate black and white handwritten numbers from 0 to 10 based on the MINST dataset.
@@ -26,6 +28,7 @@ To run the DCGAN run the python document here:
 ##### Convolution Network
 1. Designed the architecture of a CNN, 
 Grade: 83/100
+'https://github.com/marcushooi/machine-learning-model/blob/main/Convolution%20Neural%20Network/Convolution_Neural_Network.ipynb'
 
 The results of the data can be found:
 To run the DCGAN run the python document here:
