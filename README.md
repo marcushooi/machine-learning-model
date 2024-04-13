@@ -37,7 +37,7 @@ Sample VAE produced image:
 
 The notebook containing the GAN and VAE can be found here:
 
-[Contribution guidelines for this project](/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20&%20VAE.ipynb)
+[Open this python notebook to run and view the model](/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20&%20VAE.ipynb)
 
 ------------
 #### Convolution Network
