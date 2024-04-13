@@ -8,6 +8,10 @@ This repository contains the machine learning projects completed at Imperial Col
 ### Overview of Models
 
 The repository contains 4 key machine learning models
+1. Deep Convolutional Generative adversarial network (DCGAN)
+2. Variational Autoencoders (VAEs)
+3. Convolution Network
+4. Binary Tree
 
 ------------
 
@@ -18,7 +22,8 @@ The repository contains 4 key machine learning models
 3. I modified the LR, Schedulers, BatchSizee and Epoch to train the model.
 Grade: 92/100
 
-Sample GAN produced image
+Sample GAN produced image:
+
 ![Sample GAN imgae](https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20Results.png)
 
 ------------
@@ -26,7 +31,8 @@ Sample GAN produced image
 1. Created a Variational Autoencoder to generate black and white handwritten numbers from 0 to 10 based on the MINST dataset.
 Grade: 92/100
 
-Sample VAE produced image
+Sample VAE produced image:
+
 ![Sample VAE imgae](https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/VAE%20Results.png)
 
 The notebook containing the GAN and VAE can be found here:
