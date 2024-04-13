@@ -13,7 +13,8 @@ The repository contains 4 key machine learning models
 Grade: 92/100
 
 Sample GAN produced image
-'''https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20Results.png'''
+
+```https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20Results.png```
 
 
 #### Variational Autoencoders (VAEs)
@@ -21,10 +22,10 @@ Sample GAN produced image
 Grade: 92/100
 
 Sample VAE produced image
-'''https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/VAE%20Results.png'''
+```https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/VAE%20Results.png```
 
 The notebook containing the GAN and VAE can be found here:
-'''https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20Results.png'''
+```https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20Results.png```
 
 
 #### Convolution Network
@@ -32,7 +33,7 @@ The notebook containing the GAN and VAE can be found here:
 Grade: 83/100
 
 The notebook containing the CNN can be found here:
-'''https://github.com/marcushooi/machine-learning-model/blob/main/Convolution%20Neural%20Network/Convolution_Neural_Network.ipynb'''
+```https://github.com/marcushooi/machine-learning-model/blob/main/Convolution%20Neural%20Network/Convolution_Neural_Network.ipynb```
 
 
 
