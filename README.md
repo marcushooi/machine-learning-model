@@ -49,9 +49,6 @@ Grade: 83/100
 The notebook containing the CNN can be found here:
 [Open this python notebook to run and view the model](/blob/main/Convolution%20Neural%20Network/Convolution_Neural_Network.ipynb)
 
-The results of the data can be found:
-To run the DCGAN run the python document here:
-
 ------------
 ##### Binary Tree
 
