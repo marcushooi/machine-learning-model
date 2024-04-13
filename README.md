@@ -22,7 +22,7 @@ The repository contains 4 key machine learning models
 Grade: 92/100
 
 Sample GAN produced image:
-
+<img width = "70" src="https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20Results.png">
 ![Sample GAN imgae](https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20Results.png)
 
 ------------
