@@ -1,6 +1,4 @@
 ### Machine Learning Models Repository
-------------
-
 #### Overview 
 This repository contains the machine learning projects completed at Imperial College London. It includes selected coursework from the Masters of Computing course.
 
