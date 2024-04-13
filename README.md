@@ -45,6 +45,7 @@ The notebook containing the GAN and VAE can be found here:
 Grade: 83/100
 
 The notebook containing the CNN can be found here:
+
 [Open this python notebook to run and view the model](/blob/main/Convolution%20Neural%20Network/Convolution_Neural_Network.ipynb)
 
 ------------
