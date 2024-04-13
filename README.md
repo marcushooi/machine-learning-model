@@ -23,7 +23,7 @@ Grade: 92/100
 
 Sample GAN produced image:
 
-<img width = "300" title="GAN Image" src="https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20Results.png">
+<img width = "600" title="GAN Image" src="https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20Results.png">
 
 ------------
 #### Variational Autoencoders (VAEs)
@@ -33,7 +33,8 @@ Grade: 92/100
 
 Sample VAE produced image:
 
-![Sample VAE imgae](https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/VAE%20Results.png)
+<img width = "600" title="VAE Image" src="https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/VAE%20Results.png">
+
 
 The notebook containing the GAN and VAE can be found here:
 
