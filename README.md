@@ -30,8 +30,8 @@ Sample VAE produced image
 ![Sample VAE imgae](https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/VAE%20Results.png)
 
 The notebook containing the GAN and VAE can be found here:
-[Contribution guidelines for this project](machine-learning-model/Image Generation with VAE and GAN/GAN & VAE.ipynb)
-```https://github.com/marcushooi/machine-learning-model/blob/main/Image%20Generation%20with%20VAE%20and%20GAN/GAN%20Results.png```
+
+[Contribution guidelines for this project](/Image Generation with VAE and GAN/GAN & VAE.ipynb)
 
 ------------
 #### Convolution Network
