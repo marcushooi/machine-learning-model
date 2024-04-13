@@ -53,6 +53,3 @@ The notebook containing the CNN can be found here:
 ##### Binary Tree
 
 
-The results of the data can be found:
-To run the DCGAN run the python document here:
-
